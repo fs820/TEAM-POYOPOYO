@@ -5,7 +5,7 @@
 ## ゲームプレイ動画URL
 [https://youtu.be/lXaOvWuPhWw]
 
-### 💻 私の担当ソースコード
+## 💻 私の担当ソースコード
 
 主にnavi(誘導)システムのコア部分の設計と実装を担当しました。該当する主なソースコードは以下の通りです。
 
@@ -35,7 +35,7 @@
   * naviの処理をPlayerに適応するCheckNavigation,PreparationClimb,Turnなどを中心に担当
   * Playerとnaviの当たり判定のバグなどの対応なども行いました。
 
-# ゲームプレイ画像
+## ゲームプレイ画像
 ![ゲームのプレイ画面①](archive/picture/screenshot_000.png)
 ![ゲームのプレイ画面②](archive/picture/screenshot_001.png)
 ![ゲームのプレイ画面③](archive/picture/screenshot_002.png)
