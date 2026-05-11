@@ -2,6 +2,7 @@
 チーム制作のゲーム作品 (WIndows,C++,DirectX9) ※起動可能
 2年生の後期にC++で書いたチームでのゲーム作品(テーマがベルトスクロールでした)
 
+# ゲームプレイ画像
 ![ゲームのプレイ画面①](archive/picture/screenshot_000.png)
 ![ゲームのプレイ画面②](archive/picture/screenshot_001.png)
 ![ゲームのプレイ画面③](archive/picture/screenshot_002.png)
